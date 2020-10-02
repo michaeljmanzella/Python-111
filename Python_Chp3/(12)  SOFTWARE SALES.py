@@ -1,3 +1,5 @@
+# Michael Manzella
+# 01-OCT-20
 # (12)  SOFTWARE SALES (page 134)
 # 
 # A software company sells a package that retails for $99. Quantity discounts are given according to the following table:
