@@ -39,7 +39,7 @@ elif child:
 else:
     print('You are an infant.')
 
-# Output
+# OUTPUT
 # Enter your age: 1
 # You are an infant
 
