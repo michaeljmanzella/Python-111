@@ -1,3 +1,5 @@
+# Michael Manzella
+# 01-OCT-20
 # (13)  SHIPPING CHARGES (page 134)
 # 
 # The Fast Freight Shipping Company charges the following rates:
@@ -27,5 +29,6 @@ print('Shipping Charges = $',
     format(rate,',.2f'),
     sep='')
 
+# OUTPUT
 # Enter weight:100
 # Shipping Charges = $4.75
