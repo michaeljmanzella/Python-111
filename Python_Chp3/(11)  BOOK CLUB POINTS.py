@@ -1,3 +1,5 @@
+# Michael Manzella
+# 01-OCT-20
 # (11)  BOOK CLUB POINTS (page 134)
 # 
 # Serendipity Booksellers has a book club that awards points to its customers
@@ -28,7 +30,7 @@ else:
     
 print('You have',points,'points')
 
-# output
+# OUTPUT
 # Enter amount of books: 100
 # You have 60 points
     
