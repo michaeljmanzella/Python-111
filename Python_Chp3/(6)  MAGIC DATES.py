@@ -1,3 +1,5 @@
+# Michael Manzella
+# 01-OCT-20
 # (6)  MAGIC DATES (page 132)
 # 
 # The date June 10, 1960, is special because when it is written in the following format,
@@ -19,7 +21,7 @@ if year == month*day:
 else:
     print('The date is not magic')
 
-# output
+# OUTPUT
 # Enter the month: 6
 # Enter the day: 10
 # Enter the year: 60
