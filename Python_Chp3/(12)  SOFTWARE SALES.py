@@ -39,6 +39,7 @@ print('Total price = $',
       format(total,',.2f'),
       sep='')
 
+# OUTPUT
 # Enter the number of packages purchased: 100
 # Discount = $3,960.00
 # Total price = $5,940.00
