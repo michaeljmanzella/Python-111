@@ -1,3 +1,5 @@
+# Michael Manzella
+# 01-OCT-20
 # (14)  BODY MASS INDEX (page 134)
 # 
 # Write a program that calculates and displays a person’s body mass index (BMI). The BMI is often
@@ -31,7 +33,7 @@ else: person = 'underweight'
 #print BMI and classification
 print('You BMI is',bmi,'and you are',person)
 
-# ouput
+# OUTPUT
 # Enter weight: 210
 # Enter height: 74
 # You BMI is 26 and you are overweight
